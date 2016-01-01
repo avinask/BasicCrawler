@@ -1,0 +1,3 @@
+1234567890,https://sathya.in/productdetails.aspx?productID=1738&p=BUTTERFLY%20COOKER%203L%20STD%20PLUS
+2345678901,https://sathya.in/productdetails.aspx?productID=1736&p=PRESTIGE%20COOKER%203L%20DLX%20PLUS
+3456789012,https://sathya.in/productdetails.aspx?productID=3180&p=PREMIER%205.5L%20COOKER
